@@ -12,7 +12,7 @@ This is a simple Python API built with Flask.
 
 ```bash
 git clone git@github.com:esnf619-fall-2023/text2p-ml-py-api.git
-cd myapi
+cd text2p-ml-py-api
 ```
 
 4. Create a virtual environment and activate it:
@@ -67,8 +67,8 @@ sudo apt-get install python3 python3-pip python3-venv
 ```
 4. Clone your repository and navigate into the project directory:
 ```bash
-git clone https://github.com/yourusername/ml.git
-cd ml
+git clone git@github.com:esnf619-fall-2023/text2p-ml-py-api.git
+cd text2p-ml-py-api
 ```
 5. Create a virtual environment and activate it:
 ```bash
