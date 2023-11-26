@@ -33,7 +33,7 @@ pip install -r requirements.txt
 1. Set the `FLASK_APP` environment variable to your application:
 
 ```bash
-export FLASK_APP=ml-api
+export FLASK_APP=ml
 ```
 
 2. Run the Flask application:
