@@ -1,0 +1,8 @@
+flask
+Jinja2
+pandas
+numpy
+nltk
+scikit-learn
+catboost
+xgboost
